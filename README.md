@@ -1,8 +1,7 @@
 LunchPy
 =======
 
-Written by Michael Denkowski (mdenkows@cs.cmu.edu)
-
+Written by Michael Denkowski (mdenkows@cs.cmu.edu). Forked for LING-402 practice.
 Copyright: Carnegie Mellon University
 
 License: public domain
